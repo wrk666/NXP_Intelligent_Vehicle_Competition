@@ -1,0 +1,15 @@
+"D:\IAR安装1\IAR8.3\raEmbWoARM830\raEmbWoARM830\IAR Embedded Workbench for ARM 8.30\arm\bin\armproc.dll" 
+
+"D:\IAR安装1\IAR8.3\raEmbWoARM830\raEmbWoARM830\IAR Embedded Workbench for ARM 8.30\arm\bin\armjlink2.dll" 
+
+"E:\KEA工程\8.23\Projecct\IAR\program\Debug\Exe\KEA128.out" 
+
+--plugin="D:\IAR安装1\IAR8.3\raEmbWoARM830\raEmbWoARM830\IAR Embedded Workbench for ARM 8.30\arm\bin\armbat.dll" 
+
+--device_macro="D:\IAR安装1\IAR8.3\raEmbWoARM830\raEmbWoARM830\IAR Embedded Workbench for ARM 8.30\arm\config\debugger\NXP\KExx.dmac" 
+
+--flash_loader="D:\IAR安装1\IAR8.3\raEmbWoARM830\raEmbWoARM830\IAR Embedded Workbench for ARM 8.30\arm\config\flashloader\NXP\FlashKE04Z128_4.board" 
+
+
+
+
